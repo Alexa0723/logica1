@@ -1,0 +1,8 @@
+C:\Users\Liceth\source\repos\Clase 8 sep\Clase 8 sep\bin\Debug\Clase 8 sep.exe.config
+C:\Users\Liceth\source\repos\Clase 8 sep\Clase 8 sep\bin\Debug\Clase 8 sep.exe
+C:\Users\Liceth\source\repos\Clase 8 sep\Clase 8 sep\bin\Debug\Clase 8 sep.pdb
+C:\Users\Liceth\source\repos\Clase 8 sep\Clase 8 sep\obj\Debug\Clase 8 sep.csproj.AssemblyReference.cache
+C:\Users\Liceth\source\repos\Clase 8 sep\Clase 8 sep\obj\Debug\Clase 8 sep.csproj.SuggestedBindingRedirects.cache
+C:\Users\Liceth\source\repos\Clase 8 sep\Clase 8 sep\obj\Debug\Clase 8 sep.csproj.CoreCompileInputs.cache
+C:\Users\Liceth\source\repos\Clase 8 sep\Clase 8 sep\obj\Debug\Clase 8 sep.exe
+C:\Users\Liceth\source\repos\Clase 8 sep\Clase 8 sep\obj\Debug\Clase 8 sep.pdb
